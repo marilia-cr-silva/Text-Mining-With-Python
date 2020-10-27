@@ -1,4 +1,4 @@
-# Text Mining with Python - and Sentiment Analysis
+# Sentiment Analysis and Text Mining with Python
 
 ## [SCC5920] Project (2020.2) - Text mining - Institute of Mathematics and Computer Science - University of São Paulo
 
@@ -11,4 +11,3 @@ Files and folders:
 * **[folder] Pre-processing-inputs:** this folder has library files and spreadsheets before pre-processing.
 
 * **[folder] Pre-process-outputs:** the files were created at Colab, so that they can be processed with Transformers (such as BERT) and Bag-of-Words.
-
