@@ -12,4 +12,6 @@ Files and folders:
 
 * **[folder] Pre-process-outputs:** the files were created at Colab, so that they can be processed with Transformers (such as BERT) and Bag-of-Words.
 
-* **[folder] Tweet-Classification:** the codes run the files of the "Pre-process-outputs". There were 12 experiments, including NBSVM (bag-of-words), BERT and DISTILBERT. The printed outputs weren't cleaned, in order to ease the comparison of results.
+* **[folder] Tweet-Classification:** the codes run the files of the "Pre-process-outputs". There were 12 experiments, including NBSVM (Bag-of-Words), BERT and DISTILBERT. The printed outputs weren't cleaned, in order to ease the comparison of results.
+
+* **[code] Corpus_unigrams_bigrams.ipynb:** straightforward analysis concerning unigrams, bigrams, and providing the corpus with word frequencies. The code eases plotting Zipf's curve and other similar analyses.
