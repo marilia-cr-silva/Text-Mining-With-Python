@@ -11,3 +11,5 @@ Files and folders:
 * **[folder] Pre-processing-inputs:** this folder has library files and spreadsheets before pre-processing.
 
 * **[folder] Pre-process-outputs:** the files were created at Colab, so that they can be processed with Transformers (such as BERT) and Bag-of-Words.
+
+* **[folder] Tweet-Classification:** the codes run the files of the "Pre-process-outputs". There were 12 experiments, including NBSVM (bag-of-words), BERT and DISTILBERT. The printed outputs weren't cleaned, in order to ease the comparison of results.
